@@ -1,4 +1,4 @@
-# FUD_EXE_DROPPER#
+# FUD_EXE_DROPPER
 
 
 ## How to use
